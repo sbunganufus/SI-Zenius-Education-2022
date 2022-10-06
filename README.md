@@ -16,6 +16,6 @@ Problem: classification
 
 Final Model: Random Forest dan Decision Tree
 
-Link Repositori: 
+Link Repositori: https://github.com/sbunganufus/SI-Zenius-Education-2022.git
 
 Link PPT: https://docs.google.com/presentation/d/16rZQx-_dARJfbQUTYhURVoLhrRBY8oo0/edit#slide=id.p1
